@@ -37,24 +37,36 @@
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="7"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="O8Y-xA-ogT"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ho4-jo-Epu">
                                                         <rect key="frame" x="450" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="8"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="GDI-hJ-Xfo"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cWI-U0-Tpj">
                                                         <rect key="frame" x="900" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="9"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="KdC-bI-rsw"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uQy-4Q-ECg">
                                                         <rect key="frame" x="1350" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.59607843137254901" blue="0.85882352941176465" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="÷"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="KkN-z7-zdl"/>
+                                                        </connections>
                                                     </button>
                                                 </subviews>
                                             </stackView>
@@ -66,24 +78,36 @@
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="4"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="6Qt-3g-hEM"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6ub-iA-DT5">
                                                         <rect key="frame" x="450" y="0.0" width="430" height="131"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="5"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="8ZE-Li-bjf"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="a9y-xv-LOO">
                                                         <rect key="frame" x="900" y="0.0" width="430" height="131"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="6"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="1mX-X1-2Fr"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="V6z-Qi-z5h">
                                                         <rect key="frame" x="1350" y="0.0" width="430" height="131"/>
                                                         <color key="backgroundColor" red="0.20392156859999999" green="0.59607843140000005" blue="0.85882352939999995" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="×"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="T2s-gB-0PW"/>
+                                                        </connections>
                                                     </button>
                                                 </subviews>
                                             </stackView>
@@ -95,24 +119,36 @@
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="1"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="1Nk-h4-KBU"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tVc-py-1R7">
                                                         <rect key="frame" x="450" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="2"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="EA5-2F-83v"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mb3-4d-1ER">
                                                         <rect key="frame" x="900" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="3"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="yfU-ne-Say"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vn3-CK-bLi">
                                                         <rect key="frame" x="1350" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156859999999" green="0.59607843140000005" blue="0.85882352939999995" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="-"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="fEb-9s-uKR"/>
+                                                        </connections>
                                                     </button>
                                                 </subviews>
                                             </stackView>
@@ -124,24 +160,36 @@
                                                         <color key="backgroundColor" red="0.20392156859999999" green="0.28627450980000002" blue="0.36862745099999999" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="0"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="hEf-10-NZy"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Of-Bd-Kv4">
                                                         <rect key="frame" x="450" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="."/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="iZJ-sc-bVs"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jYt-CB-LX0">
                                                         <rect key="frame" x="900" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156862745098" green="0.28627450980392155" blue="0.36862745098039218" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="±"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="uPa-bl-AUt"/>
+                                                        </connections>
                                                     </button>
                                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ngn-gT-FsF">
                                                         <rect key="frame" x="1350" y="0.0" width="430" height="130"/>
                                                         <color key="backgroundColor" red="0.20392156859999999" green="0.59607843140000005" blue="0.85882352939999995" alpha="1" colorSpace="calibratedRGB"/>
                                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                                         <state key="normal" title="+"/>
+                                                        <connections>
+                                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="65E-VA-A8X"/>
+                                                        </connections>
                                                     </button>
                                                 </subviews>
                                             </stackView>
@@ -152,6 +200,9 @@
                                         <color key="backgroundColor" red="0.18039215689999999" green="0.80000000000000004" blue="0.4431372549" alpha="1" colorSpace="calibratedRGB"/>
                                         <inset key="contentEdgeInsets" minX="40" minY="20" maxX="40" maxY="20"/>
                                         <state key="normal" title="="/>
+                                        <connections>
+                                            <action selector="input:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="Mas-xt-IRR"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                             </stackView>
