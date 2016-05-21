@@ -13,6 +13,7 @@
 		EA0896881CF0CF4B008E902D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA0896871CF0CF4B008E902D /* Assets.xcassets */; };
 		EA0896931CF0CF4B008E902D /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA0896921CF0CF4B008E902D /* CalculatorTests.swift */; };
 		EA08969E1CF0CF4B008E902D /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA08969D1CF0CF4B008E902D /* CalculatorUITests.swift */; };
+		EA0896AC1CF0D71A008E902D /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA0896AB1CF0D71A008E902D /* Calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		EA0896991CF0CF4B008E902D /* CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA08969D1CF0CF4B008E902D /* CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorUITests.swift; sourceTree = "<group>"; };
 		EA08969F1CF0CF4B008E902D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA0896AB1CF0D71A008E902D /* Calculator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				EA0896801CF0CF4B008E902D /* AppDelegate.swift */,
 				EA0896821CF0CF4B008E902D /* CalculatorViewController.swift */,
+				EA0896AB1CF0D71A008E902D /* Calculator.swift */,
 				EA0896841CF0CF4B008E902D /* Main.storyboard */,
 				EA0896871CF0CF4B008E902D /* Assets.xcassets */,
 				EA0896891CF0CF4B008E902D /* Info.plist */,
@@ -254,6 +257,7 @@
 			files = (
 				EA0896831CF0CF4B008E902D /* CalculatorViewController.swift in Sources */,
 				EA0896811CF0CF4B008E902D /* AppDelegate.swift in Sources */,
+				EA0896AC1CF0D71A008E902D /* Calculator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
