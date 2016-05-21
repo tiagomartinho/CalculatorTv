@@ -12,6 +12,6 @@ class CalculatorViewController: UIViewController {
     }
 
     func updateUI() {
-        display.text = "0"
+        display.text = calculator.displayValue
     }
 }
