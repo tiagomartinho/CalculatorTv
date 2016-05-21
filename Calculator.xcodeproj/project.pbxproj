@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EA0896811CF0CF4B008E902D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA0896801CF0CF4B008E902D /* AppDelegate.swift */; };
-		EA0896831CF0CF4B008E902D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA0896821CF0CF4B008E902D /* ViewController.swift */; };
+		EA0896831CF0CF4B008E902D /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA0896821CF0CF4B008E902D /* CalculatorViewController.swift */; };
 		EA0896861CF0CF4B008E902D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA0896841CF0CF4B008E902D /* Main.storyboard */; };
 		EA0896881CF0CF4B008E902D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA0896871CF0CF4B008E902D /* Assets.xcassets */; };
 		EA0896931CF0CF4B008E902D /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA0896921CF0CF4B008E902D /* CalculatorTests.swift */; };
@@ -35,7 +35,7 @@
 /* Begin PBXFileReference section */
 		EA08967D1CF0CF4B008E902D /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA0896801CF0CF4B008E902D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EA0896821CF0CF4B008E902D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EA0896821CF0CF4B008E902D /* CalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
 		EA0896851CF0CF4B008E902D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EA0896871CF0CF4B008E902D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA0896891CF0CF4B008E902D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -96,7 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				EA0896801CF0CF4B008E902D /* AppDelegate.swift */,
-				EA0896821CF0CF4B008E902D /* ViewController.swift */,
+				EA0896821CF0CF4B008E902D /* CalculatorViewController.swift */,
 				EA0896841CF0CF4B008E902D /* Main.storyboard */,
 				EA0896871CF0CF4B008E902D /* Assets.xcassets */,
 				EA0896891CF0CF4B008E902D /* Info.plist */,
@@ -252,7 +252,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA0896831CF0CF4B008E902D /* ViewController.swift in Sources */,
+				EA0896831CF0CF4B008E902D /* CalculatorViewController.swift in Sources */,
 				EA0896811CF0CF4B008E902D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -472,6 +472,7 @@
 				EA0896A41CF0CF4B008E902D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA0896A51CF0CF4B008E902D /* Build configuration list for PBXNativeTarget "CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -480,6 +481,7 @@
 				EA0896A71CF0CF4B008E902D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA0896A81CF0CF4B008E902D /* Build configuration list for PBXNativeTarget "CalculatorUITests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +490,7 @@
 				EA0896AA1CF0CF4B008E902D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
